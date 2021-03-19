@@ -1,0 +1,49 @@
+C:\Users\Ozi03\AppData\Local\Temporary Projects\mediaplayer\bin\Debug\mediaplayer.exe
+C:\Users\Ozi03\AppData\Local\Temporary Projects\mediaplayer\bin\Debug\mediaplayer.pdb
+C:\Users\Ozi03\AppData\Local\Temporary Projects\mediaplayer\bin\Debug\mediaplayer.xml
+C:\Users\Ozi03\AppData\Local\Temporary Projects\mediaplayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ozi03\AppData\Local\Temporary Projects\mediaplayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ozi03\AppData\Local\Temporary Projects\mediaplayer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Ozi03\AppData\Local\Temporary Projects\mediaplayer\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Ozi03\AppData\Local\Temporary Projects\mediaplayer\obj\x86\Debug\mediaplayer.vbproj.ResolveComReference.cache
+C:\Users\Ozi03\AppData\Local\Temporary Projects\mediaplayer\obj\x86\Debug\mediaplayer.Form1.resources
+C:\Users\Ozi03\AppData\Local\Temporary Projects\mediaplayer\obj\x86\Debug\mediaplayer.Resources.resources
+C:\Users\Ozi03\AppData\Local\Temporary Projects\mediaplayer\obj\x86\Debug\mediaplayer.vbproj.GenerateResource.Cache
+C:\Users\Ozi03\AppData\Local\Temporary Projects\mediaplayer\obj\x86\Debug\mediaplayer.exe
+C:\Users\Ozi03\AppData\Local\Temporary Projects\mediaplayer\obj\x86\Debug\mediaplayer.xml
+C:\Users\Ozi03\AppData\Local\Temporary Projects\mediaplayer\obj\x86\Debug\mediaplayer.pdb
+C:\Users\Ozi03\documents\visual studio 2010\Projects\mediaplayer\mediaplayer\bin\Debug\mediaplayer.exe
+C:\Users\Ozi03\documents\visual studio 2010\Projects\mediaplayer\mediaplayer\bin\Debug\mediaplayer.pdb
+C:\Users\Ozi03\documents\visual studio 2010\Projects\mediaplayer\mediaplayer\bin\Debug\mediaplayer.xml
+C:\Users\Ozi03\documents\visual studio 2010\Projects\mediaplayer\mediaplayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ozi03\documents\visual studio 2010\Projects\mediaplayer\mediaplayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ozi03\documents\visual studio 2010\Projects\mediaplayer\mediaplayer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Ozi03\documents\visual studio 2010\Projects\mediaplayer\mediaplayer\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Ozi03\documents\visual studio 2010\Projects\mediaplayer\mediaplayer\obj\x86\Debug\mediaplayer.vbproj.ResolveComReference.cache
+C:\Users\Ozi03\documents\visual studio 2010\Projects\mediaplayer\mediaplayer\obj\x86\Debug\mediaplayer.Form1.resources
+C:\Users\Ozi03\documents\visual studio 2010\Projects\mediaplayer\mediaplayer\obj\x86\Debug\mediaplayer.Resources.resources
+C:\Users\Ozi03\documents\visual studio 2010\Projects\mediaplayer\mediaplayer\obj\x86\Debug\mediaplayer.vbproj.GenerateResource.Cache
+C:\Users\Ozi03\documents\visual studio 2010\Projects\mediaplayer\mediaplayer\obj\x86\Debug\mediaplayer.exe
+C:\Users\Ozi03\documents\visual studio 2010\Projects\mediaplayer\mediaplayer\obj\x86\Debug\mediaplayer.xml
+C:\Users\Ozi03\documents\visual studio 2010\Projects\mediaplayer\mediaplayer\obj\x86\Debug\mediaplayer.pdb
+C:\Users\Ozi03\Documents\Visual Studio 2010\Projects\mediaplayer\mediaplayer\obj\x86\Debug\mediaplayer.settingswindow.resources
+C:\Users\Ozi03\Documents\Visual Studio 2010\Projects\mediaplayer\mediaplayer\obj\x86\Debug\mediaplayer.Form2.resources
+C:\Users\Ozi03\Documents\Visual Studio 2010\Projects\mediaplayer\mediaplayer\obj\x86\Debug\mediaplayer.vbprojAssemblyReference.cache
+C:\Users\Ozi03\Documents\Visual Studio 2010\Projects\mediaplayer\mediaplayer\obj\x86\Debug\mediaplayer.vbproj.CoreCompileInputs.cache
+C:\Users\Finder\Desktop\mediaplayer\mediaplayer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Finder\Desktop\mediaplayer\mediaplayer\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Finder\Desktop\mediaplayer\mediaplayer\obj\x86\Debug\mediaplayer.vbproj.ResolveComReference.cache
+C:\Users\Finder\Desktop\mediaplayer\mediaplayer\obj\x86\Debug\mediaplayer.exe
+C:\Users\Finder\Desktop\mediaplayer\mediaplayer\obj\x86\Debug\mediaplayer.xml
+C:\Users\Finder\Desktop\mediaplayer\mediaplayer\obj\x86\Debug\mediaplayer.pdb
+C:\Users\Finder\Desktop\mediaplayer\mediaplayer\bin\Debug\mediaplayer.exe
+C:\Users\Finder\Desktop\mediaplayer\mediaplayer\bin\Debug\mediaplayer.pdb
+C:\Users\Finder\Desktop\mediaplayer\mediaplayer\bin\Debug\mediaplayer.xml
+C:\Users\Finder\Desktop\mediaplayer\mediaplayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Finder\Desktop\mediaplayer\mediaplayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Finder\Desktop\mediaplayer\mediaplayer\obj\x86\Debug\mediaplayer.Form1.resources
+C:\Users\Finder\Desktop\mediaplayer\mediaplayer\obj\x86\Debug\mediaplayer.Form2.resources
+C:\Users\Finder\Desktop\mediaplayer\mediaplayer\obj\x86\Debug\mediaplayer.Resources.resources
+C:\Users\Finder\Desktop\mediaplayer\mediaplayer\obj\x86\Debug\mediaplayer.settingswindow.resources
+C:\Users\Finder\Desktop\mediaplayer\mediaplayer\obj\x86\Debug\mediaplayer.vbproj.GenerateResource.Cache
+C:\Users\Finder\Desktop\mediaplayer\mediaplayer\obj\x86\Debug\mediaplayer.themecreator.resources
