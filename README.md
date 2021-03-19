@@ -23,4 +23,8 @@ Works with Windows XP SP3 and later.
 
 # Images
 
-Not any currently 
+![White](https://github.com/ozi03/media-player/blob/main/IMAGES/white.png?raw=true)
+
+![Black](https://github.com/ozi03/media-player/blob/main/IMAGES/black.png?raw=true)
+
+![Custom](https://github.com/ozi03/media-player/blob/main/IMAGES/custom.png?raw=true)
